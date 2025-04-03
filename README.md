@@ -1,4 +1,8 @@
-[![](https://github.com/Anuken/Arc/workflows/Java%20CI/badge.svg)](https://github.com/Anuken/Arc/actions)
+[![](https://github.com/5GameMaker/Arcv7/workflows/Java%20CI/badge.svg)](https://github.com/5GameMaker/Arcv7/actions)
+
+# A Hotfix fork
+
+This is a fork of <https://github.com/Anuken/Arc> because artifacts Mindustry Hotfix has been using have expired.
 
 # Where's the documentation?
 
