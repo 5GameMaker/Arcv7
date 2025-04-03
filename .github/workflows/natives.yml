@@ -10,7 +10,7 @@ jobs:
       - name: Set up JDK 1.8
         uses: actions/setup-java@v4.7.0
         with:
-          java-version: 1.8
+          java-version: 8
           distribution: temurin
       - name: Install dependencies
         run: sudo apt install g++-mingw-w64 g++-mingw-w64-i686 g++-mingw-w64-x86-64 gcc-mingw-w64 gcc-mingw-w64-i686 gcc-mingw-w64-x86-64 libasound2-dev libdrm-dev libsdl2-dev libgbm-dev
@@ -49,7 +49,7 @@ jobs:
       - name: Set up JDK 1.8
         uses: actions/setup-java@v4.7.0
         with:
-          java-version: 1.8
+          java-version: 8
           distribution: temurin
       - name: Install dependencies
         run: |
